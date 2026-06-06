@@ -1,4 +1,7 @@
 function showMessage() {
+
     document.getElementById("msg").innerHTML =
-    "🎉 Happy Birthday! Wishing you lots of happiness and success! ❤️";
+    "🎉 Happy Birthday! 🎂<br><br>May all your dreams come true ❤️✨";
+
+    alert("🎁 Surprise! Have a wonderful Birthday! 🎉");
 }
